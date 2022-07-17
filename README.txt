@@ -1,0 +1,1 @@
+double click on gui.py to run the application
